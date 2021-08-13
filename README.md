@@ -5,6 +5,7 @@ A simple TODO application developed with React.
 ## Coding task
 
 🙀 *This application is currently half-baked and it needs your help to be completed!* 🙀
+![Broken app](boring-ugly-ui.png)
 
 Your task is to implement the missing functionalities while delivering a clean application code and an amazing and beautiful UI experience to the application user.
 
@@ -18,8 +19,9 @@ Your task is to implement the missing functionalities while delivering a clean a
 * Summary section ("Total of items" and "Completed"): counts are updated accordingly
 * TODO list is saved on browser local storage (so it can be reloaded next time the app is loaded/or page is refreshed)
 * Application looks professional (production ready):
-    ** you are free to change the design of the application if you feel that it makes sense
-    ** adapt the code as much as you want so it is in accordance to the current web application development best practices
+    * you are free to change the design of the application if you feel that it makes sense
+    * you are free to add any supporting library/package that you will need (e.g., UI, icons, utilities, etc)
+    * adapt the code as much as you want so it is in accordance to the current web application development best practices
 
 ### Technical requirements
 
@@ -27,12 +29,14 @@ Your task is to implement the missing functionalities while delivering a clean a
 * Each React component is kept on its own file
 * Clean code :)
 
-## Submission
+## Submitting your code
 
-When submitting your code, make sure to include:
-* any relevant information needed to run your application (if different from the instructions in the next section)
+For submission, please clone **this repo**, push the changes to **your repo** and inform us by email **the link to your repo** containing the solution code.
+
+Also make sure to include:
 * important design decisions
-* assumptions you had to make because the requirements were not very clear
+* assumptions you had to make in case the requirements are not very clear
+* any relevant information needed to run your application (if different from the instructions in the next section)
 
 # Getting Started with Create React App
 
